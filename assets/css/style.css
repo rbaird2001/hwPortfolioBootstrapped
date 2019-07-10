@@ -1,0 +1,191 @@
+
+/* 
+
+body{
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    padding: 0;
+    margin: 0;
+    font-size: 8px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-image: url(../images/paper-4182513_1920.jpg);
+    background-size: cover;
+
+}
+
+h1{
+    font-size: 3em;
+    font-weight: 200;
+    display: inline-block;
+}
+
+h2{
+    font-size: 2em;
+    font-weight: bold;
+}
+
+p{
+    font-size: 2.25em;
+}
+
+form{
+    margin-bottom: 10px;
+    margin-top: 10px;
+}
+
+input{
+    margin-top: 8px;
+    margin-left: 10px;
+    width: 95%
+}
+
+hr{
+    margin-bottom: 20px;
+    height: 3px;
+    background-color: #A6978F;
+    border-style: none;
+}
+
+.mainContentContainer{
+    margin: 0px auto;
+    width: 65%;
+}
+
+.linkList{
+    float: right;
+    line-height: 5em;
+}
+
+.linkList li{
+    font-size: 2em;
+    display: inline;
+    list-style-type: none;
+}
+
+.linkList a:visited{
+    color: #26201D;
+}
+
+.floatClear{
+    clear: both;
+}
+
+.footerBackground{
+    background-color: #6B735A;
+    height: 15px;
+    margin-top: 100px;
+}
+
+.formContainer{
+    border-style: solid;
+    border-color: #A6978F;
+    border-width: 1px;
+    font-size: 2em;
+}
+
+.formLabel{
+    display: inline-block;
+    margin-left: 10px;
+    margin-top: 8px;
+}
+
+
+.formTextIn{
+    width: 95%;
+    margin-top: 8px;
+    margin-left: 10px;
+}
+
+.formMultilineIn{
+    margin-top: 8px;
+    margin-left: 10px;
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+    width: 95%
+}
+
+.divHeadingBackground{
+    margin: 0;
+    width: 100%;
+    background-color: #6B735A;
+    margin-bottom: 40px;
+}
+
+.divHeading{
+    margin: 0px auto;
+    width: 65%;
+}
+
+.divHeadingNamebox{
+    display: inline-block;
+    background-color: #A6978F;
+    width: 20%;
+    text-align: center;
+}
+
+.galleryImgContainer{
+    height: 250px;
+    width: 250px;
+    margin: 1.5%;
+    border-style: solid;
+    border-width: 2px;
+    border-color: #734432;
+    float: left;
+}
+
+.galleryImgContainer::after {
+    content: "";
+    clear: both;
+    display: table;
+  }
+*/
+  .galleryImage{
+      height: 300px;
+      width: 300px;
+  }
+
+  .carouselImage{
+      height: 300px;
+      width: 400px
+  }
+/*
+  .galleryButton{
+
+    position: relative;
+    height: 15%;
+    width: 100%;
+    background-color: #6B735A;
+    color: azure;
+    font-size: 2em;
+    opacity: .65;
+    bottom: 85px;
+  }
+
+#imgMainProfile{
+    height: 165px;
+    width: 165px;
+    margin-right: 20px;
+    float: left;
+} */
+
+.bg-me1{
+    background-color: #025373;
+}
+.text-me-light{
+    color: #D9D8D2;    
+}
+/* Color Theme Swatches in Hex */
+.Architecture-1-hex { color: #6B735A; }
+.Architecture-2-hex { color: #A6978F; }
+.Architecture-3-hex { color: #734432; }
+.Architecture-4-hex { color: #26201D; }
+.Architecture-5-hex { color: #BF584E; }
+
+/* Color Theme Swatches in Hex */
+.grupo1-1-hex { color: #012840; }
+.grupo1-2-hex { color: #025373; }
+.grupo1-3-hex { color: #0396A6; }
+.grupo1-4-hex { color: #038C8C; }
+.grupo1-5-hex { color: #D9D8D2; }
