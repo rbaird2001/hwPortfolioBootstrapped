@@ -141,10 +141,10 @@ hr{
     display: table;
   }
 */
-  .galleryImage{
-      height: 300px;
-      width: 300px;
-  }
+  /* .galleryImage{
+      height: 14rem;
+      width: 14rem;
+  } */
 
   .carouselImage{
       height: 300px;
